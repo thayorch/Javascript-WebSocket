@@ -1,8 +1,11 @@
 # JavascriptWebSocket
-- Client : Maven + Jframe
+- Client : Apache Maven + Jframe
 - Server : JavaScript WebSocket
 
 # Quick Start
+- Install [Java](https://www.oracle.com/java/technologies/downloads/)
+- Install [Node.JS](https://nodejs.org/en/download)
+- Install [Apache Maven](https://maven.apache.org/)
 - Setup Maven project
 - Add Websocket Dependencies
 ```
@@ -15,7 +18,6 @@
 ```
 - Open terminal
 - Change Directory to your Project
-- Install [Node.JS](https://nodejs.org/en/download)
 - Add server folder into your project
 ```
 cd server
