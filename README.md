@@ -3,11 +3,12 @@
 - Server : JavaScript WebSocket
 
 # Quick Start
-- Install [Java](https://www.oracle.com/java/technologies/downloads/)
-- Install [Node.JS](https://nodejs.org/en/download)
-- Install [Apache Maven](https://maven.apache.org/)
-- Setup Maven project
-- Add Websocket Dependencies
+- Install Software Dependencies
+    - Install [Java](https://www.oracle.com/java/technologies/downloads/)
+    - Install [Node.JS](https://nodejs.org/en/download)
+    - Install [Apache Maven](https://maven.apache.org/)
+    - Setup Maven project
+    - Add Websocket Dependencies
 ```
 <dependencies>
     <dependency>
